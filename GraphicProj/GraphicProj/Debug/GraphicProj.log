@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glewGetErrorString@4 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__glewGetString@4 referenced in function _main
+C:\graphics stuff\GLFW\lib\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\graphics stuff\GLEW\lib\glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\graphics stuff\GraphicProj\Debug\GraphicProj.exe : fatal error LNK1120: 3 unresolved externals

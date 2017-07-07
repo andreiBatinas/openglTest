@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\graphics stuff\graphicproj\graphicproj\main.cpp(42): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  GraphicProj.vcxproj -> C:\graphics stuff\GraphicProj\x64\Debug\GraphicProj.exe
